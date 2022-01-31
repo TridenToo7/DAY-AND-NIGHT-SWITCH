@@ -30,7 +30,6 @@ class _MyHomeState extends State<MyHome> {
       debugShowCheckedModeBanner: false,
       theme: _switch ? _dark : light,
       home: Scaffold(
-        backgroundColor: Color(0xffD1B25F),
         appBar: AppBar(
           backgroundColor: Colors.black38,
           title: Text ('MONOAR HOSSAIN'),
